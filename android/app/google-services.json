@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "1015554751510",
+    "firebase_url": "https://virtualmarathon-a9e65.firebaseio.com",
+    "project_id": "virtualmarathon-a9e65",
+    "storage_bucket": "virtualmarathon-a9e65.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1015554751510:android:a89f55338075826ace8937",
+        "android_client_info": {
+          "package_name": "com.rit.rit_event"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1015554751510-844udnkk0m6skngb7kj6mjl1m9hruqte.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rit.rit_event",
+            "certificate_hash": "3a65596f48e018ec9a5c6d0ff3fb22b2aedf40f0"
+          }
+        },
+        {
+          "client_id": "1015554751510-oi10r0cj0cpkrr3q7grefreggnlb24m9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyrU-w97HrE-GcRNxcEB9X4HOVf8qeaQo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1015554751510-oi10r0cj0cpkrr3q7grefreggnlb24m9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1015554751510-p136fe3iq2rao4s625hl5e0ctblqpnl6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterAppv1"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1015554751510:android:9c85829dade13f5ece8937",
+        "android_client_info": {
+          "package_name": "com.rit.ritevents"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1015554751510-asnnmdgc9h2ln8eh5dvuu0sah7mcr5h4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rit.ritevents",
+            "certificate_hash": "3a65596f48e018ec9a5c6d0ff3fb22b2aedf40f0"
+          }
+        },
+        {
+          "client_id": "1015554751510-oi10r0cj0cpkrr3q7grefreggnlb24m9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyrU-w97HrE-GcRNxcEB9X4HOVf8qeaQo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1015554751510-oi10r0cj0cpkrr3q7grefreggnlb24m9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1015554751510-p136fe3iq2rao4s625hl5e0ctblqpnl6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterAppv1"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
